@@ -13,4 +13,5 @@ mysqlCSB.Database = "base_name";
 //имя пользователя и пароль
 
 mysqlCSB.UserID = "admin";
+
 mysqlCSB.Password = "password";
